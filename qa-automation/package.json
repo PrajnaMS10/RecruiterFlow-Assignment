@@ -1,0 +1,24 @@
+{
+  "name": "recruiterflow-qa-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Section A: live SauceDemo UI and ReqRes API tests",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "dotenv": "17.2.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1",
+    "@types/node": "24.10.0",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --project=ui",
+    "test:api": "playwright test --project=api",
+    "test:headed": "playwright test --project=ui --headed",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit",
+    "test:list": "playwright test --list"
+  }
+}

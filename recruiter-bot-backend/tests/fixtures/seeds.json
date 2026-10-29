@@ -1,0 +1,339 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Sherlock H.",
+      "skills": [
+        "deduction",
+        "forensics",
+        "pattern-recognition"
+      ],
+      "experienceYears": 8,
+      "availability": "Immediate",
+      "traits": [
+        "analytical",
+        "blunt"
+      ],
+      "quirk": "Solves problems by eliminating the impossible; occasionally insufferable in standups."
+    },
+    {
+      "id": 2,
+      "name": "Hermione G.",
+      "skills": [
+        "public-speaking",
+        "research",
+        "time-management"
+      ],
+      "experienceYears": 4,
+      "availability": "2 weeks",
+      "traits": [
+        "detail-oriented",
+        "overachiever"
+      ],
+      "quirk": "Reads the entire documentation before writing a single line of code."
+    },
+    {
+      "id": 3,
+      "name": "Tony S.",
+      "skills": [
+        "leadership",
+        "rapid-prototyping",
+        "systems-design"
+      ],
+      "experienceYears": 12,
+      "availability": "Not looking",
+      "traits": [
+        "confident",
+        "innovative"
+      ],
+      "quirk": "Ships an MVP overnight, refuses to write tests."
+    },
+    {
+      "id": 4,
+      "name": "Leslie K.",
+      "skills": [
+        "project-management",
+        "public-speaking",
+        "stakeholder-management"
+      ],
+      "experienceYears": 6,
+      "availability": "Immediate",
+      "traits": [
+        "organized",
+        "tenacious"
+      ],
+      "quirk": "Has a binder for everything, including the binder."
+    },
+    {
+      "id": 5,
+      "name": "Ron S.",
+      "skills": [
+        "minimalism",
+        "negotiation",
+        "woodworking"
+      ],
+      "experienceYears": 15,
+      "availability": "Not looking",
+      "traits": [
+        "principled",
+        "stubborn"
+      ],
+      "quirk": "Refuses to use more than one monitor."
+    },
+    {
+      "id": 6,
+      "name": "Rick S.",
+      "skills": [
+        "chemistry",
+        "rapid-prototyping",
+        "systems-design"
+      ],
+      "experienceYears": 20,
+      "availability": "Immediate",
+      "traits": [
+        "genius",
+        "reckless"
+      ],
+      "quirk": "Solution works, mechanism deeply concerning."
+    },
+    {
+      "id": 7,
+      "name": "Elle W.",
+      "skills": [
+        "persuasion",
+        "public-speaking",
+        "research"
+      ],
+      "experienceYears": 3,
+      "availability": "Immediate",
+      "traits": [
+        "optimistic",
+        "sharp"
+      ],
+      "quirk": "Underestimated in every standup, correct in every retro."
+    },
+    {
+      "id": 8,
+      "name": "MacGyver",
+      "skills": [
+        "chemistry",
+        "rapid-prototyping",
+        "resourcefulness",
+        "systems-design"
+      ],
+      "experienceYears": 10,
+      "availability": "2 weeks",
+      "traits": [
+        "calm",
+        "improviser"
+      ],
+      "quirk": "Fixes production outages with duct tape and a paperclip metaphor."
+    },
+    {
+      "id": 9,
+      "name": "Sheldon C.",
+      "skills": [
+        "pattern-recognition",
+        "research",
+        "theoretical-analysis"
+      ],
+      "experienceYears": 9,
+      "availability": "Immediate",
+      "traits": [
+        "brilliant",
+        "rigid"
+      ],
+      "quirk": "Correct 95% of the time, insufferable 100% of the time."
+    },
+    {
+      "id": 10,
+      "name": "Katniss E.",
+      "skills": [
+        "crisis-management",
+        "precision",
+        "strategy"
+      ],
+      "experienceYears": 5,
+      "availability": "Immediate",
+      "traits": [
+        "decisive",
+        "resilient"
+      ],
+      "quirk": "Excellent under pressure, terrible with public speaking."
+    },
+    {
+      "id": 11,
+      "name": "Michael S.",
+      "skills": [
+        "public-speaking",
+        "sales",
+        "team-building"
+      ],
+      "experienceYears": 11,
+      "availability": "Not looking",
+      "traits": [
+        "chaotic",
+        "enthusiastic"
+      ],
+      "quirk": "World's best boss, according to a mug he bought himself."
+    },
+    {
+      "id": 12,
+      "name": "Olivia P.",
+      "skills": [
+        "crisis-management",
+        "leadership",
+        "negotiation",
+        "strategy"
+      ],
+      "experienceYears": 13,
+      "availability": "2 weeks",
+      "traits": [
+        "decisive",
+        "intense"
+      ],
+      "quirk": "Handles it. Whatever it is."
+    },
+    {
+      "id": 13,
+      "name": "Ted L.",
+      "skills": [
+        "mentorship",
+        "optimism",
+        "public-speaking",
+        "team-building"
+      ],
+      "experienceYears": 7,
+      "availability": "Immediate",
+      "traits": [
+        "empathetic",
+        "persistent"
+      ],
+      "quirk": "Turns every technical setback into a folksy metaphor."
+    },
+    {
+      "id": 14,
+      "name": "Miranda P.",
+      "skills": [
+        "leadership",
+        "negotiation",
+        "precision",
+        "stakeholder-management"
+      ],
+      "experienceYears": 18,
+      "availability": "Not looking",
+      "traits": [
+        "decisive",
+        "demanding"
+      ],
+      "quirk": "Reviews every PR personally. Says nothing. Everyone panics."
+    },
+    {
+      "id": 15,
+      "name": "Dwight S.",
+      "skills": [
+        "loyalty",
+        "negotiation",
+        "sales",
+        "security"
+      ],
+      "experienceYears": 9,
+      "availability": "Immediate",
+      "traits": [
+        "intense",
+        "loyal"
+      ],
+      "quirk": "Assistant to the regional backend engineer."
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Backend Detective",
+      "requiredSkills": [
+        "deduction",
+        "forensics",
+        "pattern-recognition"
+      ],
+      "minimumExperience": 3,
+      "cultureKeywords": [
+        "analytical",
+        "autonomous"
+      ],
+      "tagline": "We have a bug. We have no leads. We have you."
+    },
+    {
+      "id": 2,
+      "title": "Rapid Prototyping Engineer",
+      "requiredSkills": [
+        "rapid-prototyping",
+        "systems-design"
+      ],
+      "minimumExperience": 2,
+      "cultureKeywords": [
+        "fast-paced",
+        "innovative"
+      ],
+      "tagline": "Ship first, document never (kidding \u2014 please document)."
+    },
+    {
+      "id": 3,
+      "title": "Developer Relations Lead",
+      "requiredSkills": [
+        "public-speaking",
+        "research"
+      ],
+      "minimumExperience": 2,
+      "cultureKeywords": [
+        "curious",
+        "energetic"
+      ],
+      "tagline": "Explain complex things to confused humans, cheerfully."
+    },
+    {
+      "id": 4,
+      "title": "Engineering Manager, Chaos Team",
+      "requiredSkills": [
+        "leadership",
+        "stakeholder-management",
+        "team-building"
+      ],
+      "minimumExperience": 5,
+      "cultureKeywords": [
+        "empathetic",
+        "organized"
+      ],
+      "tagline": "Herd cats. The cats are senior engineers."
+    },
+    {
+      "id": 5,
+      "title": "Incident Commander",
+      "requiredSkills": [
+        "crisis-management",
+        "negotiation",
+        "strategy"
+      ],
+      "minimumExperience": 4,
+      "cultureKeywords": [
+        "calm-under-pressure",
+        "decisive"
+      ],
+      "tagline": "3am page. You're the one who picks up."
+    },
+    {
+      "id": 6,
+      "title": "Sales Engineer",
+      "requiredSkills": [
+        "negotiation",
+        "public-speaking",
+        "sales"
+      ],
+      "minimumExperience": 3,
+      "cultureKeywords": [
+        "enthusiastic",
+        "persistent"
+      ],
+      "tagline": "Sell the vision, then go build it."
+    }
+  ]
+}
