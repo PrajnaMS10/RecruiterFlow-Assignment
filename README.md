@@ -52,3 +52,7 @@ The projects use separate dependency configurations and can be run independently
 ## Purpose
 
 This repository brings together practical work in test automation, frontend application development, backend API design, database management, and automated testing.
+
+##AI Use
+
+I used Codex to help generate and improve the implementation, documentation, and automated tests, and to assist with verification. I am reviewing the code and calculations to ensure I can explain the implementation and make changes independently.
