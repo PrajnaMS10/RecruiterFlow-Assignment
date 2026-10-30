@@ -10,7 +10,7 @@ A collection of three independent projects covering QA automation, frontend deve
 
 Automated UI and API testing for SauceDemo and ReqRes, including login workflows, shopping cart interactions, API validation, and reusable Page Object Model implementation.
 
-[View QA Automation](./QA-Automation/)
+[View QA Automation](./qa-automation/)
 
 ### 2. Trip Splitter
 
@@ -18,7 +18,7 @@ Automated UI and API testing for SauceDemo and ReqRes, including login workflows
 
 A responsive expense-sharing application for managing trip expenses, supporting equal, exact-amount, and percentage-based splits, balance calculations, category filtering, expense management, and persistent light/dark themes.
 
-[View Trip Splitter](./Trip-Splitter-frontend/)
+[View Trip Splitter](./trip-splitter-frontend/)
 
 ### 3. Recruiter Bot
 
@@ -26,7 +26,7 @@ A responsive expense-sharing application for managing trip expenses, supporting 
 
 A REST API that ranks candidates against job opportunities using skill compatibility and experience. Includes bidirectional matching, explainable scores, database seeding, automated tests, and SQL-based hiring analytics.
 
-[View Recruiter Bot](./RecruiterBot-Backend/)
+[View Recruiter Bot](./recruiter-bot-backend/)
 
 ## Repository Structure
 
